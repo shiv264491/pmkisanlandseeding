@@ -1,0 +1,137 @@
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+
+}
+
+#header{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(7, 7, 88);
+    position: fixed;
+    display: flex;
+    align-items: center;
+}
+
+#logo{
+    background-color: aliceblue;
+    object-fit: cover;
+    margin: 20px;
+    
+    
+}
+
+
+.text{
+    /* background-color: aqua; */
+    margin: 15px;
+    color: white;
+    
+}
+
+.text:hover{
+    color: red;
+}
+
+
+    
+.icon{
+    display: flex;
+    align-items: center;
+    margin: 30px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(192, 1, 1);
+}
+
+.icon:hover{
+    color: black;
+}
+
+
+
+
+#fake{
+
+    height: 10%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    
+     
+
+}
+
+/* #header{
+    height: 10%;
+    width: 100%;
+    background-color: white;
+} */
+
+
+#link{
+    color: rgb(0, 0, 0);
+    height: 100%;
+    width: 100%;
+    font-size: xxx-large;
+    align-items: center;
+    /* margin-top: 10px; */
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(238, 255, 255);
+
+}
+
+.value{
+    background-color: white;
+}
+
+
+#page2{
+    height: 10%;
+    width: 100%;
+}
+#copyright{
+    height: 10%;
+    width: 100%;
+    background-color: black;
+}
+
+.copyright{
+    height: 10%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
